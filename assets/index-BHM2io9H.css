@@ -1442,7 +1442,7 @@ input[type="number"] {
   bottom: 0;
   left: 0;
   z-index: -1;
-  
+
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -3441,4 +3441,10 @@ input[type="number"] {
   .\33xl\:w-full {
     width: 100%;
   }
+}
+
+.banner-left img {
+  max-width: 857px;
+  width: 111%;
+  margin-left: -9%;
 }
